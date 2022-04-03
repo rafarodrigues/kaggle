@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # 001 Titanic - Machine Learning from Disaster
 <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/logos/header.png" alt="exemplo imagem">
 
@@ -42,4 +40,3 @@ Temos 3 arquivos para o projeto:
 <br><br><br>
 `A ideia do desafio é melhorar a acuracidade desse modelo`
 [⬆ Voltar ao topo](#001_Titanic)<br>
->>>>>>> parent of c304b70 (Update README.md)
