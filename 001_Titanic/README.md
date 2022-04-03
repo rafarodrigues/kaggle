@@ -38,5 +38,5 @@ Temos 3 arquivos para o projeto:
 
 `gender_submission.csv` é um arquivo fornecido pelo desafio para demonstrar como deve se o resultado. Esse arquivo possui o 'modelo' de que todos os homens morreram e todas as mulheres sobreviveram. 
 <br><br><br>
-`A ideia do desafio é melhorar a acuracidade desse modelo`
+### A ideia do desafio é melhorar a acuracidade desse modelo<br>
 [⬆ Voltar ao topo](#001_Titanic)<br>
