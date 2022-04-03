@@ -24,5 +24,19 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Adicionar gráficos e explicações
 - [X] Configurar exportação do Jupyter Notebook para PDF
 
+## 🗺 Resumo
 
+A competição é simples: Nós queremos usar uma base de dados de passageiros do Titanic (Nome, Idade, Gênero, preço da passagem, et c.) e predizer quem vai morrer e quem vai sobreviver. `~~Sim, macabro~~`
+Temos 3 arquivos para o projeto:
+* (1) train.csv 
+* (2) test.csv
+* (3) gender_submission.csv
+
+`train.csv` contém detalhes de diversos passageiros a bordo (891 passageiros, para ser exato). Os valores na coluna `Survived` representam `0 morreu` e `1 sobreviveu` <br> 
+
+`test.csv` Após treinar o modelo com o primeiro arquivo, devemos aplicar o modelo no arquivo `test.csv` e predizer se os 418 passageiros sobreviveram ou não.<br> 
+
+`gender_submission.csv` é um arquivo fornecido pelo desafio para demonstrar como deve se o resultado. Esse arquivo possui o 'modelo' de que todos os homens morreram e todas as mulheres sobreviveram. 
+<br><br><br>
+`A ideia do desafio é melhorar a acuracidade desse modelo`
 [⬆ Voltar ao topo](#001_Titanic)<br>
