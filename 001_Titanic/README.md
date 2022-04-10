@@ -5,7 +5,7 @@
 > 
 > **A ideia é**: a partir de uma base de dados *test*, montar um modelo que possa identificar com a maior precisão possível se um passageiro poderia ou não morrer no acidente, dados algumas variáveis como gênero, idade, preço da passagem, classe econômica e etc.
 > 
->  
+Link do projeto: <a href="https://www.kaggle.com/competitions/titanic" target="_blank">https://www.kaggle.com/competitions/titanic</a>  
 
 ## 📊 Intenções / Metas
 Apesar de saber que não é o melhor momento para começar a olhar para `Machine Learning`, esse projeto do Kaggle serviu para me apresentar algumas ferramentas e conceitos de aprendizado de máquina.<br><br>
