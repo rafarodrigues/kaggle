@@ -21,9 +21,12 @@ Foquei em seguir o tutorial da Alex Cook apresentado no Kaggle, para posteriorme
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Retornar em 01/04/2023 e realizar o desafio novamente, já com novos conhecimentos
-- [ ] Adicionar gráficos e explicações
+- [X] Adicionar gráficos e bibliotecas
+- [ ] Melhorar gráficos e adicionar explicações
 - [X] Configurar exportação do Jupyter Notebook para PDF
-- [X] Configurar exportação do Jupyter Notebook para PDF
+- [ ] Adicionar análises do resultado 
+- [ ] Montar no README.md passo-a-passo de como organizei o projeto 
+- [ ] Montar e explicar forma de validação dos dados 
 - [ ] Corrigir 'warnings' do projeto `001 Titanic`
 
 ## 🗺 Resumo

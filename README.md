@@ -22,6 +22,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [ ] Montar README.md, Storytelling e melhorar lógica do projeto `001 Titanic`
 - [ ] Definir metas mensais
+- [ ] Corrigir Jupyter para abrir arquivos de qualquer local, não apenas da raiz
 - [ ] Montar <i>roadmap</i> de Machine Leaning
 
 
