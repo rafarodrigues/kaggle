@@ -46,8 +46,11 @@ Temos 3 arquivos para o projeto:
 > Para visualilizar o projeto completo, juntamente das explicações e considerações, será necessário rodar os arquivos:
 * <a href="https://github.com/rafarodrigues/kaggle/blob/main/001_Titanic/001_Titanic.ipynb" target="_blank">`001_Titanic.ipynb` - Arquivo principal do projeto.</a><br><br>
 ![screenshot do código](img/1.png)
-* `001_Titanic.pdf` - Arquivo do Jypyter exportado para PDF. 
-* `resultado.csv` - Resultado obtido com o modelo desenvolvido. 
+* `001_Titanic.pdf` - Arquivo do Jypyter exportado para PDF; 
+* `resultado.csv` - Resultado obtido com o modelo desenvolvido; 
+* `../data/` - Pasta com os arquivos utilizados para treino, validação e teste;
+* `../img/` - Repositório com as imagens;
+
 
 
 ## 📑 Ajustes e melhorias
