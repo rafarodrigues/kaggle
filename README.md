@@ -20,8 +20,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Montar README.md do projeto `001 Titanic`
-- [ ] Melhorar lógica do projeto `001 Titanic`
+- [ ] Montar README.md, Storytelling e melhorar lógica do projeto `001 Titanic`
 - [ ] Definir metas mensais
 - [ ] Montar <i>roadmap</i> de Machine Leaning
 

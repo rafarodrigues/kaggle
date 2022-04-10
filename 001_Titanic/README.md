@@ -23,6 +23,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Retornar em 01/04/2023 e realizar o desafio novamente, já com novos conhecimentos
 - [ ] Adicionar gráficos e explicações
 - [X] Configurar exportação do Jupyter Notebook para PDF
+- [X] Configurar exportação do Jupyter Notebook para PDF
+- [ ] Corrigir 'warnings' do projeto `001 Titanic`
 
 ## 🗺 Resumo
 
