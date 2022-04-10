@@ -42,6 +42,13 @@ Temos 3 arquivos para o projeto:
 
 `A ideia do desafio é melhorar a acuracidade desse modelo`<br>
 
+## 🚧 Projeto
+> Para visualilizar o projeto completo, juntamente das explicações e considerações, será necessário rodar os arquivos:
+* <a href="https://github.com/rafarodrigues/kaggle/blob/main/001_Titanic/001_Titanic.ipynb" target="_blank">`001_Titanic.ipynb` - Arquivo principal do projeto.</a>  
+* `001_Titanic.pdf` - Arquivo do Jypyter exportado para PDF. 
+* `resultado.csv` - Resultado obtido com o modelo desenvolvido. 
+
+
 ## 📑 Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -52,7 +59,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Adicionar análises e explicações do resultado;
 - [ ] Montar e explicar forma de validação dos dados;
 - [ ] Montar no README.md passo-a-passo de como organizei o projeto;
-- [ ] Corrigir 'warnings' do projeto `001 Titanic`;
+- [X] Corrigir '*warnings*' do projeto `001 Titanic`;
 - [ ] Finalizar projeto;
 - [ ] Retornar em `01/04/2023` e realizar o desafio novamente, já com novos conhecimentos e sem o tutorial da Alex Cook;
 
