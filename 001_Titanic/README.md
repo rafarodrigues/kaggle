@@ -17,21 +17,15 @@ Foquei em seguir o tutorial da Alex Cook apresentado no Kaggle, para posteriorme
 5. Aprender a manipular arquivos e gráficos;
 6. Aprender a exportar arquivos, pensando na confecção de relatórios;
 
-## 📑 Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [X] Adicionar gráficos e bibliotecas;
-- [ ] Melhorar gráficos e adicionar explicações;
-- [X] Configurar exportação do Jupyter Notebook para PDF;
-- [ ] Adicionar análises e explicações do resultado;
-- [ ] Montar e explicar forma de validação dos dados;
-- [ ] Montar no README.md passo-a-passo de como organizei o projeto;
-- [ ] Corrigir 'warnings' do projeto `001 Titanic`;
-- [ ] Finalizar projeto;
-- [ ] Retornar em `01/04/2023` e realizar o desafio novamente, já com novos conhecimentos e sem o tutorial da Alex Cook;
-
 ## 🗺️ Resumo
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=F37626&logo=jupyter&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&labelColor=20beff&logo=Kaggle&logoColor=white)
+![image](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white
+)
+<br>
 
 A competição é simples: Nós queremos usar uma base de dados de passageiros do Titanic (Nome, Idade, Gênero, preço da passagem, etc.) e predizer quem vai morrer e quem vai sobreviver. `~~Sim, macabro~~`
 Temos 3 arquivos para o projeto:
@@ -47,6 +41,22 @@ Temos 3 arquivos para o projeto:
 <br>
 
 `A ideia do desafio é melhorar a acuracidade desse modelo`<br>
+
+## 📑 Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [X] Adicionar gráficos e bibliotecas;
+- [ ] Melhorar gráficos e adicionar explicações;
+- [X] Configurar exportação do Jupyter Notebook para PDF;
+- [ ] Adicionar análises e explicações do resultado;
+- [ ] Montar e explicar forma de validação dos dados;
+- [ ] Montar no README.md passo-a-passo de como organizei o projeto;
+- [ ] Corrigir 'warnings' do projeto `001 Titanic`;
+- [ ] Finalizar projeto;
+- [ ] Retornar em `01/04/2023` e realizar o desafio novamente, já com novos conhecimentos e sem o tutorial da Alex Cook;
+
+
 ## 🚢 Conclusão
 *PENDENTE* *PENDENTE* *PENDENTE* *PENDENTE* *PENDENTE* *PENDENTE* *PENDENTE* <br>
 
